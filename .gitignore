@@ -1,7 +1,4 @@
 
 *.iml
-.idea/modules.xml
-.idea/vcs.xml
-.idea/workspace.xml
-.idea/misc.xml
+.idea/
 out/
