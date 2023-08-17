@@ -6,6 +6,7 @@
 | [1474. 删除链表 M 个节点之后的 N 个节点](https://leetcode.cn/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/?envType=study-plan-v2&envId=premium-algo-100) | easy | [Java](src/linkedlist/DeleteNodesFromLinkedList.java) |
 | [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/) | easy | [Java](src/linkedlist/ReverseLinkedList.java) |
 | [92. 反转链表 II](https://leetcode.cn/problems/reverse-linked-list-ii/description/) | medium | [Java](src/linkedlist/ReverseLinkedListII.java) |
+| [141. 环形链表](https://leetcode.cn/problems/linked-list-cycle/description/) | easy | [Java](src/linkedlist/LinkedListCycle.java) |
 
 ## 二叉树BinaryTree
 | 题目 | 难度 | 解答 |
