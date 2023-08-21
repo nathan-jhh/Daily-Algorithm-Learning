@@ -18,6 +18,7 @@ public class ReverseLinkedListII {
     // loop
     static class Solution {
         public ListNode reverseBetween(ListNode head, int left, int right) {
+            // 当需要创造一条新链表时，往往可以使用虚拟头结点避免分类讨论
             // use dummy head
             ListNode dummyNode = new ListNode(-1, head);
 
