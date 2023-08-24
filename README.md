@@ -10,6 +10,7 @@
 | [141. 环形链表](https://leetcode.cn/problems/linked-list-cycle/description/) | easy | [Java](src/linkedlist/LinkedListCycle.java) |
 | [142. 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/) | medium | [Java](src/linkedlist/LinkedListCycleII.java) |
 | [19. 删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/?envType=study-plan-v2&envId=top-interview-150) | medium | [Java](src/linkedlist/RemoveNthNodeFromEndOfList.java) |
+| [2. 两数相加](https://leetcode.cn/problems/add-two-numbers/description/?envType=study-plan-v2&envId=top-interview-150) | medium | [Java](src/linkedlist/AddTwoNumbers.java) |
 
 ## 二叉树BinaryTree
 | 题目 | 难度 | 解答 |
