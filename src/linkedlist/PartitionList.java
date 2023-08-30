@@ -38,10 +38,31 @@ public class PartitionList {
         }
     }
 
-    // loop
+    // two pointer
     class Solution2 {
         public ListNode partition(ListNode head, int x) {
+            if (head == null || head.next == null) {
+                return head;
+            }
 
+            ListNode small = new ListNode(-1);
+            ListNode large = new ListNode(-1);
+            ListNode smallDummyHead = small;
+            ListNode largeDummyHead = large;
+            ListNode cur = head;
+            while (cur != null) {
+                if (cur.val < x) {
+                    small.next = cur;
+                    small = small.next;
+                } else {
+                    large.next = cur;
+                    large = large.next;
+                }
+                cur = cur.next;
+            }
+            large.next = null;
+            small.next = largeDummyHead.next;
+            return smallDummyHead.next;
         }
     }
 }
