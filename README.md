@@ -12,6 +12,7 @@
 | [19. 删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/?envType=study-plan-v2&envId=top-interview-150) | medium | [Java](src/linkedlist/RemoveNthNodeFromEndOfList.java) |
 | [2. 两数相加](https://leetcode.cn/problems/add-two-numbers/description/?envType=study-plan-v2&envId=top-interview-150) | medium | [Java](src/linkedlist/AddTwoNumbers.java) |
 | [86. 分隔链表](https://leetcode.cn/problems/partition-list/) | medium | [Java](src/linkedlist/PartitionList.java) |
+| [25. K 个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group/) | hard | [Java](src/linkedlist/ReverseKGroup.java) |
 
 ## 二叉树BinaryTree
 | 题目 | 难度 | 解答 |
