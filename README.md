@@ -14,10 +14,17 @@
 | [86. 分隔链表](https://leetcode.cn/problems/partition-list/) | medium | [Java](src/linkedlist/PartitionList.java) |
 | [25. K 个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group/) | hard | [Java](src/linkedlist/ReverseKGroup.java) |
 
+## 数组Array
+| 题目 | 难度 | 解答 |
+| :---------- | :----------| :---------- |
+| [26. 删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/) | easy | [Java](src/array/RemoveDuplicatesFromSortedArray.java) |
+
+
 ## 二叉树BinaryTree
 | 题目 | 难度 | 解答 |
 | :---------- | :----------| :---------- |
 | [114. 二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/description/) | medium | [Java](src/binarytree/FlattenBinaryTreeToLinedList.java) |
+| [104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/description/) | easy | [Java](src/binarytree/MaximumDepthOfBinaryTree.java) |
 
 ## 回溯backtrack
 | 题目 | 难度 | 解答 |
