@@ -18,6 +18,7 @@
 | 题目 | 难度 | 解答 |
 | :---------- | :----------| :---------- |
 | [26. 删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/) | easy | [Java](src/array/RemoveDuplicatesFromSortedArray.java) |
+| [167. 两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/) | medium | [Java](src/array/TwoSumII.java) |
 
 
 ## 二叉树BinaryTree
