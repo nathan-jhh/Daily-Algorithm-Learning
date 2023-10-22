@@ -31,3 +31,8 @@
 | 题目 | 难度 | 解答 |
 | :---------- | :----------| :---------- |
 | [面试题 08.12. 八皇后](https://leetcode.cn/problems/eight-queens-lcci/description/) | hard | [Java](src/backtrack/NQueens.java) |
+
+## 字符串string
+| 题目 | 难度 | 解答 |
+| :---------- | :----------| :---------- |
+| [5. 最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/) | medium | [Java](src/string/LongestPalindromicSubstring.java) |
