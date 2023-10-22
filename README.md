@@ -26,6 +26,7 @@
 | :---------- | :----------| :---------- |
 | [114. 二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/description/) | medium | [Java](src/binarytree/FlattenBinaryTreeToLinedList.java) |
 | [104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/description/) | easy | [Java](src/binarytree/MaximumDepthOfBinaryTree.java) |
+| [543. 二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/) | easy | [Java](src/binarytree/DiameterOfBinaryTree.java) |
 
 ## 回溯backtrack
 | 题目 | 难度 | 解答 |
