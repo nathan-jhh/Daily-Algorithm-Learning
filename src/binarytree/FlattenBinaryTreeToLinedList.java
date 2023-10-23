@@ -31,12 +31,37 @@ public class FlattenBinaryTreeToLinedList {
 
         // 前序遍历保存节点到list
         private void preOrderTraversal(TreeNode root) {
-            if (root == null){
+            if (root == null) {
                 return;
             }
             list.add(root);
             preOrderTraversal(root.left);
             preOrderTraversal(root.right);
+        }
+    }
+
+    // 原地拉伸
+    static class Solution2 {
+        // 定义：输入节点 root，将以root为根的二叉树拉平为一条链表
+        public void flatten(TreeNode root) {
+            if (root == null) {
+                return;
+            }
+
+            flatten(root.left);
+            flatten(root.right);
+
+            // 将左子树作为右子树
+            TreeNode rightNode = root.right;
+            root.right = root.left;
+            root.left = null;
+
+            // 将原先的右子树接到当前右子树的末端
+            TreeNode tempNode = root; // 这里用root，不要用root.right
+            while (tempNode.right != null) {
+                tempNode = tempNode.right;
+            }
+            tempNode.right = rightNode;
         }
     }
 }

@@ -27,11 +27,18 @@
 | [114. 二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/description/) | medium | [Java](src/binarytree/FlattenBinaryTreeToLinedList.java) |
 | [104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/description/) | easy | [Java](src/binarytree/MaximumDepthOfBinaryTree.java) |
 | [543. 二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/) | easy | [Java](src/binarytree/DiameterOfBinaryTree.java) |
+| [105. 从前序与中序遍历序列构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | medium | [Java](src/binarytree/ConstructBinaryTree.java) |
+| [116. 填充每个节点的下一个右侧节点指针](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node/description/) | medium | [Java](src/binarytree/PopulatingNextRightPointers.java) |
 
 ## 回溯backtrack
 | 题目 | 难度 | 解答 |
 | :---------- | :----------| :---------- |
 | [面试题 08.12. 八皇后](https://leetcode.cn/problems/eight-queens-lcci/description/) | hard | [Java](src/backtrack/NQueens.java) |
+
+## 动态规划dynamic programming
+| 题目 | 难度 | 解答 |
+| :---------- | :----------| :---------- |
+| [322. 零钱兑换](https://leetcode.cn/problems/coin-change/description/) | medium | [Java](src/dynamicprogramming/CoinChange.java) |
 
 ## 字符串string
 | 题目 | 难度 | 解答 |
