@@ -29,6 +29,8 @@
 | [543. 二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/) | easy | [Java](src/binarytree/DiameterOfBinaryTree.java) |
 | [105. 从前序与中序遍历序列构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | medium | [Java](src/binarytree/ConstructBinaryTree.java) |
 | [116. 填充每个节点的下一个右侧节点指针](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node/description/) | medium | [Java](src/binarytree/PopulatingNextRightPointers.java) |
+| [230. 二叉搜索树中第K小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/) | medium | [Java](src/binarytree/KthSmallestElementInBST.java) |
+| [98. 验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree/description/) | medium | [Java](src/binarytree/ValidateBinarySearchTree.java) |
 
 ## 回溯backtrack
 | 题目 | 难度 | 解答 |
