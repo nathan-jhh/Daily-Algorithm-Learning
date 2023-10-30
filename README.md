@@ -46,3 +46,5 @@
 | 题目 | 难度 | 解答 |
 | :---------- | :----------| :---------- |
 | [5. 最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/) | medium | [Java](src/string/LongestPalindromicSubstring.java) |
+| [20. 有效的括号](https://leetcode.cn/problems/valid-parentheses/?envType=study-plan-v2&envId=top-100-liked) | easy | [Java](src/string/ValidParentheses.java) |
+| [3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | medium | [Java](src/string/LongestSubstringWithoutRepeatingCharacters.java) |
