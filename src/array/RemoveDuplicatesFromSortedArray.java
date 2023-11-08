@@ -8,8 +8,26 @@ package array;
  */
 public class RemoveDuplicatesFromSortedArray {
     public static void main(String[] args) {
-        int num = new Solution().removeDuplicates(new int[]{1, 2, 2, 2, 3, 3});
+        int num = new Solution2().removeDuplicates(new int[]{1, 2, 2, 2, 3, 3});
         System.out.println("num = " + num);
+    }
+
+    static class Solution2 {
+        public int removeDuplicates(int[] nums) {
+            if (nums.length == 1) {
+                return 1;
+            }
+
+            // 循环不变量：nums[0..j] 没有重复元素
+            int j = 0;
+            for (int i = 1; i < nums.length; i++) {
+                if (nums[i] != nums[j]) {
+                    j++;
+                    nums[j] = nums[i];
+                }
+            }
+            return j + 1;
+        }
     }
 
     static class Solution {

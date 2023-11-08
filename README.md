@@ -19,6 +19,8 @@
 | :---------- | :----------| :---------- |
 | [26. 删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/) | easy | [Java](src/array/RemoveDuplicatesFromSortedArray.java) |
 | [167. 两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/) | medium | [Java](src/array/TwoSumII.java) |
+| [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/description/?envType=study-plan-v2&envId=top-100-liked) | medium | [Java](src/array/FindFirstAndLastPositionInSortedArray.java) |
+| [75. 颜色分类](https://leetcode.cn/problems/sort-colors/) | medium | [Java](src/array/SetColor.java) |
 
 
 ## 二叉树BinaryTree
@@ -48,3 +50,16 @@
 | [5. 最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/) | medium | [Java](src/string/LongestPalindromicSubstring.java) |
 | [20. 有效的括号](https://leetcode.cn/problems/valid-parentheses/?envType=study-plan-v2&envId=top-100-liked) | easy | [Java](src/string/ValidParentheses.java) |
 | [3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | medium | [Java](src/string/LongestSubstringWithoutRepeatingCharacters.java) |
+
+## 排序算法
+| 题目 | 解答 |
+| :---------- | :---------- |
+| 快速排序 | [Java](src/sort_algorithm/QuickSort.java) |
+| 归并排序 | [Java](src/sort_algorithm/MergeSort.java) |
+| 插入排序 | [Java](src/sort_algorithm/InsertSort.java) |
+| 选择排序 | [Java](src/sort_algorithm/SelectSort.java) |
+
+## 数据结构实现
+| 题目 | 解答 |
+| :---------- | :---------- |
+| 二分搜索树 | [Java](src/data_structures/BinarySearchTree.java) |
