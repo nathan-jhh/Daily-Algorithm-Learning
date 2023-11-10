@@ -7,7 +7,7 @@ import java.util.Random;
  * 设计一个算法，找出数组中最小的k个数。以任意顺序返回这k个数均可。
  * https://leetcode.cn/problems/smallest-k-lcci/description/
  */
-class Solution {
+class SmallestK {
     private static final Random random = new Random(System.currentTimeMillis());
 
     public int[] smallestK(int[] arr, int k) {

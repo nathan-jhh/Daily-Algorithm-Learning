@@ -21,6 +21,9 @@
 | [167. 两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/) | medium | [Java](src/array/TwoSumII.java) |
 | [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/description/?envType=study-plan-v2&envId=top-100-liked) | medium | [Java](src/array/FindFirstAndLastPositionInSortedArray.java) |
 | [75. 颜色分类](https://leetcode.cn/problems/sort-colors/) | medium | [Java](src/array/SetColor.java) |
+| [215. 数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array/description/) | medium | [Java](src/array/KthLargestElement.java) |
+| [面试题 17.14. 最小K个数](https://leetcode.cn/problems/smallest-k-lcci/description/) | medium | [Java](src/array/SmallestK.java) |
+| [347. 前 K 个高频元素](https://leetcode.cn/problems/top-k-frequent-elements/?envType=study-plan-v2&envId=top-100-liked) | medium | [Java](src/array/TopKFrequentElements.java) |
 
 
 ## 二叉树BinaryTree
