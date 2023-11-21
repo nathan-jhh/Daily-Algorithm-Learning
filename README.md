@@ -24,6 +24,11 @@
 | [215. 数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array/description/) | medium | [Java](src/array/KthLargestElement.java) |
 | [面试题 17.14. 最小K个数](https://leetcode.cn/problems/smallest-k-lcci/description/) | medium | [Java](src/array/SmallestK.java) |
 | [347. 前 K 个高频元素](https://leetcode.cn/problems/top-k-frequent-elements/?envType=study-plan-v2&envId=top-100-liked) | medium | [Java](src/array/TopKFrequentElements.java) |
+| [11. 盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/description/) | medium | [Java](src/array/ContainerWithMostWater.java) |
+| [88. 合并两个有序数组](https://leetcode.cn/problems/merge-sorted-array/description/) | easy | [Java](src/array/MergeSortedArray.java) |
+| [80. 删除有序数组中的重复项 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii/description/) | medium | [Kotlin](src/array/RemoveDuplicatesFromSortedArrayII.kt) |
+| [15. 三数之和](https://leetcode.cn/problems/3sum/description/?envType=study-plan-v2&envId=top-100-liked) | medium | [Java](src/array/ThreeSum.java) |
+| [42. 接雨水](https://leetcode.cn/problems/trapping-rain-water/) | hard | [Java](src/array/TrappingRainWater.java) |
 
 
 ## 二叉树BinaryTree
@@ -46,6 +51,7 @@
 | 题目 | 难度 | 解答 |
 | :---------- | :----------| :---------- |
 | [322. 零钱兑换](https://leetcode.cn/problems/coin-change/description/) | medium | [Java](src/dynamicprogramming/CoinChange.java) |
+| [53. 最大子数组和](https://leetcode.cn/problems/maximum-subarray/description/?envType=study-plan-v2&envId=top-100-liked) | medium | [Java](src/dynamicprogramming/MaxSubArray.java) |
 
 ## 字符串string
 | 题目 | 难度 | 解答 |
